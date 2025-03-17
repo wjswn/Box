@@ -1,14 +1,31 @@
 [
     {
-       "bt": "作者QQ",
+        "bt": "联系作者QQ",
         "url": "https://qm.qq.com/q/2N4tGz0VXy"
-    },
+    }
     {
         "bt": "QQ群",
         "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=deC2vsgH53lopCnpfMZvSN05wvFRigXW&authKey=u8yg1IIAbbdQCyd9l6PBnaYIZ2Ro6pVBNOMoRBVgdG2KugDeBur3qJkrF0P7Vjw1&noverify=0&group_code=483062522"
-    },
-    {
-        "bt": "Q群",
-        "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=deC2vsgH53lopCnpfMZvSN05wvFRigXW&authKey=u8yg1IIAbbdQCyd9l6PBnaYIZ2Ro6pVBNOMoRBVgdG2KugDeBur3qJkrF0P7Vjw1&noverify=0&group_code=483062522"
     }
+    {
+        "bt": "加入QQ群",
+        "url": "https://qm.qq.com/q/AoQ5BRpJmg"
+    }
+    {
+        "bt": "无",
+        "url": "无请等待更新"
+    }
+    {
+        "bt": "请等待更新",
+        "url": "无"
+    }
+    
+    {
+        "bt": "无",
+        "url": "无"
+    }
+    
+    
+    
+    
 ]
