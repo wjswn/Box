@@ -1,21 +1,21 @@
 [
     {
-        "id":"1"
+        "id":"1",
         "bt": "备用地址",
         "url": "https://gilded-meerkat-5b3993.netlify.app/Box"
     },
     {
-        "id":""
+        "id":"",
         "bt": "",
         "url": ""
     },
     {
-        "id":"3"
+        "id":"3",
         "bt": "steam官网",
         "url": "https://store.steampowered.com/0?l=schinese"
     },
     {
-        "id":"2"
+        "id":"2",
         "bt": "epic官网",
         "url": "https://store.epicgames.com/"
     }
