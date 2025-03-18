@@ -2,61 +2,73 @@
     {
         "id":"1",
         "标题": "备用地址",
+        "标签": "备用地址",
         "链接": "https://gilded-meerkat-5b3993.netlify.app/Box"
     },
     {
         "id":"",
         "标题": "",
+        "标签": "android ios windows",
         "链接": ""
     },
     {
         "id":"11",
         "标题": "IOS-苹果软件站@白嫖就行，每天签到回答问题都能获得积分兑换付费资源账号",
+        "标签": "ios",
         "链接": "https://www.iios.fun/#/r/ZLCB6T"
     },
     {
         "id":"10",
         "标题": "酷安社区官网",
+        "标签": "android ios windows",
         "链接": "https://www.coolapk.com"
     },
     {
         "id":"9",
         "标题": "动漫-喵物次元@支持网页观看，可下载Android版，支持iOS自签名",
+        "标签": "android ios windows",
         "链接": "https://www.mwcy.net/"
     },
     {
         "id":"8",
         "标题": "Android学习版谷歌资源@下载APK时需要加速",
+        "标签": "android",
         "链接": "https://apkmody.com/"
     },
     {
         "id":"7",
-        "标题": "VPN海外加速windows iOS Android通用@白嫖就行了，网站内附有教程",
+        "标题": "VPN海外加速@白嫖就行了，网站内附有教程",
+        "标签": "android ios windows",
         "链接": "https://ikuuu.one/auth/register?code=EZA9"
     },
     {
         "id":"6",
         "标题": "windows游戏合集@百度网盘可看简介有UI/可用未知",
+        "标签": "windows",
         "链接": "https://laoquzhang.com/"
     },
     {
         "id":"5",
         "标题": "windows游戏合集@夸克网盘/可用未知",
+        "标签": "windows",
         "链接": "https://pan.quark.cn/s/52c7494c295e#/list/share"
     },
     {
         "id":"4",
         "标题": "苹果美区ID分享网",
+        "标签": "ios",
         "链接": "https://iddog.cc/"
     },
     {
         "id":"3",
         "标题": "steam官网",
+        "标签": "android ios windows",
         "链接": "https://store.steampowered.com/0?l=schinese"
     },
     {
         "id":"2",
         "标题": "epic官网",
+        "标签": "android ios windows",
         "链接": "https://store.epicgames.com/"
     }
 ]
