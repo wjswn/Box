@@ -1,22 +1,22 @@
 [
     {
         "id":"1",
-        "bt": "备用地址",
-        "url": "https://gilded-meerkat-5b3993.netlify.app/Box"
+        "标题": "备用地址",
+        "链接": "https://gilded-meerkat-5b3993.netlify.app/Box"
     },
     {
         "id":"",
-        "bt": "",
-        "url": ""
+        "标题": "",
+        "链接": ""
     },
     {
         "id":"3",
-        "bt": "steam官网",
-        "url": "https://store.steampowered.com/0?l=schinese",
+        "标题": "steam官网",
+        "链接": "https://store.steampowered.com/0?l=schinese"
     },
     {
         "id":"2",
-        "bt": "epic官网",
-        "url": "https://store.epicgames.com/"
+        "标题": "epic官网",
+        "链接": "https://store.epicgames.com/"
     }
 ]
